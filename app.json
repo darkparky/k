@@ -5,5 +5,9 @@
     "token": {
            "description": "Bot token , get from botfather",
            "required": true
+    },
+    "host": {
+          "description": "Paste your Mongodb URI",
+          "required": true
     }
  }}
