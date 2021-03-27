@@ -1,0 +1,9 @@
+{
+  "name": "Anime Searching Bot",
+  "stack": "container",
+  "env": {
+    "token": {
+           "description": "Bot token , get from botfather",
+           "required": true
+    }
+ }}
